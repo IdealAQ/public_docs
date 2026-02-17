@@ -1,10 +1,11 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Documentation is still under development.
 
 ----
 
-[^1]: [Navigate to subpages, i.e. Measures for useful content.](/measures).
+[For useful content, navigate to subpages (i.e. Measures)](/docs/measures_list.html).

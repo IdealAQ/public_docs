@@ -1,7 +1,22 @@
 ---
-title: Measures
+title: Measures list
 layout: default
+nav_order: 2
 ---
+
+# Measures
+
+The measure key follows the following pattern: **\<sensor\>\_\<measure\>\_\<unit\>**
+
+## Units
+
+TODO:
+
+## List
+
+> **Note:** Not all measures and their values are verified or contain useful value. The presence of all keys listed below in the data is not guaranteed.
+
+Every data item is expected to contain **timestamp** key-value pair, used as index.
 
 | sensor | measure | unit | key | note |
 |--------|----------|------|------|------|
@@ -71,3 +86,5 @@ layout: default
 | *naneos* | *dNdlogD8* | *xx* | *naneos_dNdlogD8_xx* | not validated – do not use |
 | **nsrtmk4** | **noisemax** | **db** | **nsrtmk4_noisemax_db** | |
 | **nsrtmk4** | **noiseleq** | **db** | **nsrtmk4_noiseleq_db** | |
+| **dashboard** | **GPS latitude** | dd | **dash_lat_dd** | |
+| **dashboard** | **GPS longitude** | dd | **dash_long_dd** | |
