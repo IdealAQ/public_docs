@@ -33,48 +33,46 @@ Every data item is expected to contain **timestamp** key-value pair, used as ind
 
 | sensor | measure | unit | key | note |
 |--------|----------|------|------|------|
-| *airsence* | *deviceaddress* | *xx* | *airsence_deviceaddress_xx* | not validated – do not use |
-| *airsence* | *baudrate* | *xx* | *airsence_baudrate_xx* | not validated – do not use |
-| *airsence* | *dataformat* | *xx* | *airsence_dataformat_xx* | not validated – do not use |
-| **airsence** | **co** | **ppb** | **airsence_co_ppb** | |
-| **airsence** | **no** | **ppb** | **airsence_no_ppb** | |
-| **airsence** | **no2** | **ppb** | **airsence_no2_ppb** | |
-| **airsence** | **o3** | **ppb** | **airsence_o3_ppb** | |
-| **airsence** | **so2** | **ppb** | **airsence_so2_ppb** | |
-| **airsence** | **h2s** | **ppb** | **airsence_h2s_ppb** | |
-| **airsence** | **co2** | **ppm** | **airsence_co2_ppm** | |
-| **airsence** | **voc** | **ppm** | **airsence_voc_ppm** | |
-| **airsence** | **nh3** | **ppm** | **airsence_nh3_ppm** | |
-| **airsence** | **ch4** | **ppm** | **airsence_ch4_ppm** | |
-| **airsence** | **tempob** | **c** | **airsence_tempob_c** | |
-| **airsence** | **humob** | **pct** | **airsence_humob_pct** | |
-| **airsence** | **pressureob** | **x** | **airsence_pressureob_x** | |
-| **airsence** | **tempamb** | **x** | **airsence_tempamb_x** | |
-| **airsence** | **humamb** | **x** | **airsence_humamb_x** | |
-| **airsence** | **pressureamb** | **x** | **airsence_pressureamb_x** | |
-| *airsence* | *pm1p0* | *xx* | *airsence_pm1p0_xx* | not validated – do not use |
-| *airsence* | *pm2p5* | *xx* | *airsence_pm2p5_xx* | not validated – do not use |
-| *airsence* | *pm10* | *xx* | *airsence_pm10_xx* | not validated – do not use |
-| *airsence* | *pm4* | *xx* | *airsence_pm4_xx* | not validated – do not use |
-| **airsence** | **noiseleq** | **db** | **airsence_noiseleq_db** | |
-| **airsence** | **noisemax** | **db** | **airsence_noisemax_db** | |
-| *airsence* | *windgust* | *xx* | *airsence_windgust_xx* | not validated – do not use |
-| *airsence* | *windspeed* | *xx* | *airsence_windspeed_xx* | not validated – do not use |
-| *airsence* | *winddirection* | *xx* | *airsence_winddirection_xx* | not validated – do not use |
-| *airsence* | *rainfall* | *xx* | *airsence_rainfall_xx* | not validated – do not use |
-| *airsence* | *lux* | *xx* | *airsence_lux_xx* | not validated – do not use |
-| *airsence* | *uv* | *xx* | *airsence_uv_xx* | not validated – do not use |
-| *airsence* | *lat* | *xx* | *airsence_lat_xx* | not validated – do not use |
-| *airsence* | *long* | *xx* | *airsence_long_xx* | not validated – do not use |
-| *airsence* | *elev* | *xx* | *airsence_elev_xx* | not validated – do not use |
-| *airsence* | *aqiaqhi* | *xx* | *airsence_aqiaqhi_xx* | not validated – do not use |
-| **alfopc** | **temp** | **c** | **alfopc_temp_c** | |
-| **alfopc** | **rh** | **pct** | **alfopc_rh_pct** | |
-| **alfopc** | **pm1** | **ugm3** | **alfopc_pm1_ugm3** | |
-| **alfopc** | **pm2p5** | **ugm3** | **alfopc_pm2p5_ugm3** | |
-| **alfopc** | **pm10** | **ugm3** | **alfopc_pm10_ugm3** | |
-| **hdc3022** | **temperature** | **c** | **hdc3022_temperature_c** | |
-| **hdc3022** | **rh** | **pct** | **hdc3022_rh_pct** | |
+| *AirSENCE* | *deviceaddress* | *xx* | *airsence_deviceaddress_xx* | not validated – do not use |
+| *AirSENCE* | *baudrate* | *xx* | *airsence_baudrate_xx* | not validated – do not use |
+| *AirSENCE* | *dataformat* | *xx* | *airsence_dataformat_xx* | not validated – do not use |
+| **AirSENCE** | **co** | **ppb** | **airsence_co_ppb** | |
+| **AirSENCE** | **no** | **ppb** | **airsence_no_ppb** | |
+| **AirSENCE** | **no2** | **ppb** | **airsence_no2_ppb** | |
+| **AirSENCE** | **o3** | **ppb** | **airsence_o3_ppb** | |
+| **AirSENCE** | **so2** | **ppb** | **airsence_so2_ppb** | |
+| **AirSENCE** | **h2s** | **ppb** | **airsence_h2s_ppb** | |
+| **AirSENCE** | **co2** | **ppm** | **airsence_co2_ppm** | |
+| **AirSENCE** | **voc** | **ppm** | **airsence_voc_ppm** | |
+| **AirSENCE** | **nh3** | **ppm** | **airsence_nh3_ppm** | |
+| **AirSENCE** | **ch4** | **ppm** | **airsence_ch4_ppm** | |
+| **AirSENCE** | **tempob** | **c** | **airsence_tempob_c** | |
+| **AirSENCE** | **humob** | **pct** | **airsence_humob_pct** | |
+| **AirSENCE** | **pressureob** | **x** | **airsence_pressureob_x** | |
+| **AirSENCE** | **tempamb** | **x** | **airsence_tempamb_x** | |
+| **AirSENCE** | **humamb** | **x** | **airsence_humamb_x** | |
+| **AirSENCE** | **pressureamb** | **x** | **airsence_pressureamb_x** | |
+| *AirSENCE* | *pm1p0* | *xx* | *airsence_pm1p0_xx* | not validated – do not use |
+| *AirSENCE* | *pm2p5* | *xx* | *airsence_pm2p5_xx* | not validated – do not use |
+| *AirSENCE* | *pm10* | *xx* | *airsence_pm10p0_xx* | not validated – do not use |
+| *AirSENCE* | *pm4* | *xx* | *airsence_pm4p0_xx* | not validated – do not use |
+| **AirSENCE** | **noiseleq** | **db** | **airsence_noiseleq_db** | |
+| **AirSENCE** | **noisemax** | **db** | **airsence_noisemax_db** | |
+| *AirSENCE* | *windgust* | *xx* | *airsence_windgust_xx* | not validated – do not use |
+| *AirSENCE* | *windspeed* | *xx* | *airsence_windspeed_xx* | not validated – do not use |
+| *AirSENCE* | *winddirection* | *xx* | *airsence_winddirection_xx* | not validated – do not use |
+| *AirSENCE* | *rainfall* | *xx* | *airsence_rainfall_xx* | not validated – do not use |
+| *AirSENCE* | *lux* | *xx* | *airsence_lux_xx* | not validated – do not use |
+| *AirSENCE* | *uv* | *xx* | *airsence_uv_xx* | not validated – do not use |
+| *AirSENCE* | *lat* | *xx* | *airsence_lat_xx* | not validated – do not use |
+| *AirSENCE* | *long* | *xx* | *airsence_long_xx* | not validated – do not use |
+| *AirSENCE* | *elev* | *xx* | *airsence_elev_xx* | not validated – do not use |
+| *AirSENCE* | *aqiaqhi* | *xx* | *airsence_aqiaqhi_xx* | not validated – do not use |
+| **Alphasense OPC** | **temp** | **c** | **alphopc_temp_c** | |
+| **Alphasense OPC** | **rh** | **pct** | **alphopc_rh_pct** | |
+| **Alphasense OPC** | **pm1** | **ugm3** | **alphopc_pm1p0_ugm3** | |
+| **Alphasense OPC** | **pm2p5** | **ugm3** | **alphopc_pm2p5_ugm3** | |
+| **Alphasense OPC** | **pm10** | **ugm3** | **alphopc_pm10p0_ugm3** | |
 | **naneos** | **pnc** | **ptcm3** | **naneos_pnc_ptcm3** | |
 | **naneos** | **diameter** | **nm** | **naneos_diameter_nm** | |
 | **naneos** | **ldsa** | **um2cm3** | **naneos_ldsa_um2cm3** | |
@@ -134,5 +132,5 @@ Every data item is expected to contain **timestamp** key-value pair, used as ind
 | **Particles Plus** | **dNdlogdP8500to9250nm** | **ptcm3** | **pplus_dNdlogdP8500to9250nm_ptcm3** | |
 | **Particles Plus** | **dNdlogdP9250to10000nm** | **ptcm3** | **pplus_dNdlogdP9250to10000nm_ptcm3** | |
 | **Particles Plus** | **dNdlogdP10000to25000nm** | **ptcm3** | **pplus_dNdlogdP10000to25000nm_ptcm3** | |
-| **hdc3022** | **temp** | **c** | **hdc3022_temp_c** | |
-| **hdc3022** | **rh** | **pct** | **hdc3022_rh_pct** | |
+| **hdc3022** | **temperature** | **c** | **hdc3022_temp_c** | |
+| **hdc3022** | **humidity** | **pct** | **hdc3022_rh_pct** | |
