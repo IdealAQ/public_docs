@@ -88,3 +88,38 @@ Every data item is expected to contain **timestamp** key-value pair, used as ind
 | **nsrtmk4** | **noiseleq** | **db** | **nsrtmk4_noiseleq_db** | |
 | **dashboard** | **GPS latitude** | dd | **dash_lat_dd** | |
 | **dashboard** | **GPS longitude** | dd | **dash_long_dd** | |
+| **Particles Plus** | **pm2p5** | **ugm3** | **pplus_pm2p5_ugm3** | |
+| **Particles Plus** | **pm10** | **ugm3** | **pplus_pm10_ugm3** | |
+| **Particles Plus** | **pnc** | **ptcm3** | **pplus_pnc_ptcm3** | |
+| **Particles Plus** | **dNdlogdP300to350nm** | **ptcm3** | **pplus_dNdlogdP300to350nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP350to400nm** | **ptcm3** | **pplus_dNdlogdP350to400nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP400to450nm** | **ptcm3** | **pplus_dNdlogdP400to450nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP450to500nm** | **ptcm3** | **pplus_dNdlogdP450to500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP500to550nm** | **ptcm3** | **pplus_dNdlogdP500to550nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP550to600nm** | **ptcm3** | **pplus_dNdlogdP550to600nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP600to650nm** | **ptcm3** | **pplus_dNdlogdP600to650nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP650to700nm** | **ptcm3** | **pplus_dNdlogdP650to700nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP700to800nm** | **ptcm3** | **pplus_dNdlogdP700to800nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP800to900nm** | **ptcm3** | **pplus_dNdlogdP800to900nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP900to1000nm** | **ptcm3** | **pplus_dNdlogdP900to1000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP1000to1250nm** | **ptcm3** | **pplus_dNdlogdP1000to1250nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP1250to1500nm** | **ptcm3** | **pplus_dNdlogdP1250to1500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP1500to2000nm** | **ptcm3** | **pplus_dNdlogdP1500to2000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP2000to2500nm** | **ptcm3** | **pplus_dNdlogdP2000to2500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP2500to3000nm** | **ptcm3** | **pplus_dNdlogdP2500to3000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP3000to3500nm** | **ptcm3** | **pplus_dNdlogdP3000to3500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP3500to4000nm** | **ptcm3** | **pplus_dNdlogdP3500to4000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP4000to4500nm** | **ptcm3** | **pplus_dNdlogdP4000to4500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP4500to5000nm** | **ptcm3** | **pplus_dNdlogdP4500to5000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP5000to5500nm** | **ptcm3** | **pplus_dNdlogdP5000to5500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP5500to6000nm** | **ptcm3** | **pplus_dNdlogdP5500to6000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP6000to6500nm** | **ptcm3** | **pplus_dNdlogdP6000to6500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP6500to7000nm** | **ptcm3** | **pplus_dNdlogdP6500to7000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP7000to7500nm** | **ptcm3** | **pplus_dNdlogdP7000to7500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP7500to8000nm** | **ptcm3** | **pplus_dNdlogdP7500to8000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP8000to8500nm** | **ptcm3** | **pplus_dNdlogdP8000to8500nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP8500to9250nm** | **ptcm3** | **pplus_dNdlogdP8500to9250nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP9250to10000nm** | **ptcm3** | **pplus_dNdlogdP9250to10000nm_ptcm3** | |
+| **Particles Plus** | **dNdlogdP10000to25000nm** | **ptcm3** | **pplus_dNdlogdP10000to25000nm_ptcm3** | |
+| **hdc3022** | **temp** | **c** | **hdc3022_temp_c** | |
+| **hdc3022** | **rh** | **pct** | **hdc3022_rh_pct** | |
