@@ -10,7 +10,20 @@ The measure key follows the following pattern: **\<sensor\>\_\<measure\>\_\<unit
 
 ## Units
 
-TODO:
+| unit | description |
+|------|------------|
+| ppm | parts per million |
+| ppb | parts per billion |
+| pct | percent |
+| db | decibels |
+| c | Celsius |
+| ugm3 | micrograms per m3 |
+| ptcm3 | particle concentration per cm3 |
+| nm | nanometer |
+| um2cm3 | square micrometers per cubic centimeter |
+| dd | decimal degree |
+| x | unknown |
+| xx | unknown |
 
 ## List
 
