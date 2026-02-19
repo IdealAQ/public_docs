@@ -22,6 +22,7 @@ The measure key follows the following pattern: **\<sensor\>\_\<measure\>\_\<unit
 | nm | nanometer |
 | um2cm3 | square micrometers per cubic centimeter |
 | dd | decimal degree |
+| hpa | hPa | hectopascal |
 | x | unknown |
 | xx | unknown |
 
