@@ -50,3 +50,5 @@ dfs = []
         )
 # use own logic to merge dfs to single df if needed
 ```
+
+> More example scripts can be found in [Github repository](https://github.com/IdealAQ/aq-data-az-blob).
